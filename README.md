@@ -1,7 +1,7 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the-badge&logo=c#&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/c#-20232a.svg?style=for-the-badge&logo=c#&logoColor=61DAFB" />&nbsp
 </div>
 
 <br>
