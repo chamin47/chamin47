@@ -16,7 +16,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:noblezzz77@gmail.com">
     <img
       src="https://img.shields.io/badge/noblezzz77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
