@@ -1,7 +1,8 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/c#-20232a.svg?style=for-the-badge&logo=c#&logoColor=61DAFB" />&nbsp
+  <!-- C# 로고 수정 -->
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -16,8 +17,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:noblezzz77@gmail.com">
-    <img
-      src="https://img.shields.io/badge/noblezzz77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="mailto:oka1313@gmail.com">
+    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 </div>
