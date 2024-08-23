@@ -5,12 +5,9 @@
 noblezzz77@gmail.com
 
 ### :tada: Who Am I? :tada:
-  
-안녕하세요:sparkles:
 
-제 이름은 차동민이고, 게임 프로그래밍을 공부하고 있어요!
-
-게임제작을 위한 Unity와 알고리즘을 공부하고 있어요.
+게임제작을 위한 Unity와 알고리즘을 공부 중
+정보처리기사 공부 중
   
 <br/>
 
