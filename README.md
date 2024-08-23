@@ -6,8 +6,9 @@ noblezzz77@gmail.com
 
 ### :tada: Who Am I? :tada:
 
-게임제작을 위한 Unity와 알고리즘을 공부 중
-정보처리기사 공부 중
+게임 제작을 위한 Unity와 알고리즘을 공부하고 있고
+<br/>
+정보처리기사도 공부 중입니다.
   
 <br/>
 
