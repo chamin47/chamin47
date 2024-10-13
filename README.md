@@ -33,6 +33,8 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+
 ### :speech_balloon: Co-op tool
 
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
