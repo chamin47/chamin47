@@ -34,28 +34,6 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 
-## 🏅 Certifications
-
-### :medal: Course Completion
-
-<img src="https://img.shields.io/badge/Completed-Course-brightgreen?logo=check-circle&logoColor=white">
-
-### :gear: ASP.NET Core
-
-<img src="https://img.shields.io/badge/ASP.NET%20Core-Completed-purple?logo=dotnet&logoColor=white">
-
-### :satellite: Blazor
-
-<img src="https://img.shields.io/badge/Blazor-Completed-purple?logo=blazor&logoColor=white">
-
-### :cloud: WebAPI
-
-<img src="https://img.shields.io/badge/WebAPI-Completed-blue?logo=webapi&logoColor=white">
-
-### :link: REST API
-
-<img src="https://img.shields.io/badge/REST%20API-Completed-blue?logo=restapi&logoColor=white">
-
 ## :speech_balloon: Co-op tool
 
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
