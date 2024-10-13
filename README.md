@@ -34,12 +34,12 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+### :hammer_and_wrench: Additional Stacks
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white">
-
 <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white">
 
 ### :speech_balloon: Co-op tool
