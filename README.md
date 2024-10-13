@@ -29,7 +29,7 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white">
 
 ### :speech_balloon: Co-op tool
 
