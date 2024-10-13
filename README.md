@@ -21,6 +21,8 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black">
 
+<img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white">
+
 ### :beginner: Once I've Used
 
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
@@ -30,8 +32,6 @@ noblezzz77@gmail.com
 <img src="https://img.shields.io/badge/UnrealEngine-0B0B0B?logo=UnrealEngine&logoColor=white">
 
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
-
-<img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white">
 
 ### :speech_balloon: Co-op tool
 
