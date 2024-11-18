@@ -28,8 +28,6 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white">
 
-<img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white">
-
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white">
 
 <br/>
