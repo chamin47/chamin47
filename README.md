@@ -16,11 +16,7 @@ noblezzz77@gmail.com
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
-
 <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white">
-
-<img src="https://img.shields.io/badge/UnrealEngine-0B0B0B?logo=UnrealEngine&logoColor=white">
 
 ### :speech_balloon: Co-op tool
 
