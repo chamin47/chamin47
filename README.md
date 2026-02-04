@@ -6,7 +6,7 @@ noblezzz77@gmail.com
 
 ### :tada: Who Am I? :tada:
 
-게임 클라, 서버 모두 공부 중
+게임 클라이언트
 
 <br/>
 
